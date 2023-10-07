@@ -1,1 +1,0 @@
-Invoking command in '/home/blank/projects/path-planning/build/ros_gz_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/blank/projects/path-planning/src/ros_gz/ros_gz_interfaces -DCMAKE_INSTALL_PREFIX=/home/blank/projects/path-planning/install/ros_gz_interfaces
