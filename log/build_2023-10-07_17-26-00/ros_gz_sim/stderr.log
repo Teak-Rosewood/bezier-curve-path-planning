@@ -1,0 +1,4 @@
+[31mCMake Error at CMakeLists.txt:54 (message):
+  This branch is only compatible with Gazebo Garden forward.
+
+[0m
